@@ -1,4 +1,4 @@
-# Navid's Resturant List
+# Navid's Restaurant List
 
 ### Goal: This is a simple REST API model I created to enable front-end and back-end communication. This was a side project that I worked to get a better understanding of how web applications are connected from the front-end to the back-end.
 * Takeaways:  
