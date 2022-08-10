@@ -3,7 +3,7 @@
 ### Goal: This is a simple REST API model I created to enable front-end and back-end communication. This was a side project that I worked to get a better understanding of how web applications are connected from the front-end to the back-end.
 * Takeaways:  
   * The differences between client-side and server-side rendering
-  * How to apply REST API's to enable the front-end and back-edn to communicate 
+  * How to apply REST API's to enable the front-end and back-end to communicate 
   * How to make server-side API calls to external API's
   * How to implement a MVC (Model, View, Controller) Design and the benefits of it
 
